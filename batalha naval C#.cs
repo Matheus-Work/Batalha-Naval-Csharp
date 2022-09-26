@@ -1,4 +1,4 @@
- double contador = 3, bomba1x, bomba1y, bomba2x, bomba2y, bomba3x, bomba3y,
+ double contador = 5, bomba1x, bomba1y, bomba2x, bomba2y, bomba3x, bomba3y,
             vidasextra1x, vidasextra1y, vidasextra2x, vidasextra2y, vidasextra3x, vidasextra3y,
             bauposicaox, bauposicaoy,
             chutebaux, chutebauy,
